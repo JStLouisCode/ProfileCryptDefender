@@ -12,7 +12,7 @@ ProfileCryptDefender focuses on providing a secure and user-friendly profile man
 
 ## Getting Started
 ### Prerequisites 
-..* Java Development Kit (JDK) installation.
+* Java Development Kit (JDK) installation.
 ### Installation
 1. Clone or download the ProfileCryptDefender repository.
 2. Open the project in your preferred Java IDE.
