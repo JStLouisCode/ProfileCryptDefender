@@ -5,10 +5,10 @@ Java application that offers secure user profile management with password hashin
 ProfileCryptDefender focuses on providing a secure and user-friendly profile management experience. With an emphasis on password security, the application ensures that user passwords are never stored in plaintext, mitigating potential security breaches.
 
 ## Features
-..* User Registration: Create a profile with your first name, last name, date of birth, and password.
-..* Secure Password Storage: Utilizes the SHA-256 hashing algorithm to store passwords as irreversible hashes.
-..* User Login: Log in with your username and password to access your profile.
-..* Profile Display: View your profile information, including your name, date of birth, and last logged-in time.
+* User Registration: Create a profile with your first name, last name, date of birth, and password.
+* Secure Password Storage: Utilizes the SHA-256 hashing algorithm to store passwords as irreversible hashes.
+* User Login: Log in with your username and password to access your profile.
+* Profile Display: View your profile information, including your name, date of birth, and last logged-in time.
 
 ## Getting Started
 ### Prerequisites 
@@ -32,9 +32,9 @@ ProfileCryptDefender ensures the security of user passwords through the SHA-256 
 4. During login, the entered password is hashed using the same SHA-256 algorithm and compared against the stored hash. If they match, access is granted.
 
 ## Technologies Used
-..* Java
-..* MessageDigest class for password hashing
-..* LocalDateTime class for date and time management
+* Java
+* MessageDigest class for password hashing
+* LocalDateTime class for date and time management
 
 ## Contributing
 Contributions to the ProfileCryptDefender are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's repository.
